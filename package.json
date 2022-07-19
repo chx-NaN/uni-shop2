@@ -1,5 +1,5 @@
 {
-  "name": "uni--shop-2",
+  "name": "uni-shop-2",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,15 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chx-NaN/uni-shop2.git"
+    "url": "git@gitee.com:vsdeveloper/uni-shop2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chx-NaN/uni-shop2/issues"
-  },
-  "homepage": "https://github.com/chx-NaN/uni-shop2#readme",
   "dependencies": {
     "@escook/request-miniprogram": "^0.2.1"
   }

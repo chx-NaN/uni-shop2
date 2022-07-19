@@ -1,5 +1,5 @@
 {
-    "name" : "uni- shop-2",
+    "name" : "uni-shop-2",
     "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
@@ -45,7 +45,7 @@
         "appid" : "wx43fe70bb6e12b656",
         "setting" : {
             "urlCheck" : true,
-			"checkSiteMap": false
+            "checkSiteMap" : false
         }
     }
 }
